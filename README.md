@@ -1,0 +1,2 @@
+# DuplicateImageCheck
+ Checks duplicate images
