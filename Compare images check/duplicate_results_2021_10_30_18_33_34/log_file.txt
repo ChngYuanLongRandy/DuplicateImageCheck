@@ -1,0 +1,26 @@
+Log file for duplicate application
+Start Time 2021-10-30 18:33:34.695802
+Total Runtime 0.91secs 
+
+Ref Directory C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images 
+Check Directory C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check 
+
+*************************
+Duplicated Files
+*************************
+File location
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\Test Folder 1\copy.jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\copy.jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\lookalike.jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\verydifferent.jpg
+
+*************************
+Non Duplicated Files
+*************************
+File location
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\2015 Pictures (1).jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\2015 Pictures (2).jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\2015 Pictures (4).jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\7e4eaff5903970648d52ce8a75411a56.jpg
+C:\Users\Randy\GitHub\DuplicateImageCheck\Compare images check\Test Folder 1\20170312_164114.jpg
+
