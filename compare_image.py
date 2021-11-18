@@ -59,6 +59,8 @@ Corrupted or unreadable image.
 For example, a file ending with acceptable format but it is unable to be opened as a JPG.
 
 '''
+#! Python3
+
 import datetime, time, shutil
 import os
 from pathlib import Path
